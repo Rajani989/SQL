@@ -1,0 +1,4 @@
+use student;
+update tblparents set Email="NA";
+select * from tblparents;
+commit;
